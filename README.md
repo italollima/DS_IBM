@@ -1,2 +1,1 @@
-# Data Science IBM Certification
-"# CodeExercise" 
+# Data Science IBM Certification"
